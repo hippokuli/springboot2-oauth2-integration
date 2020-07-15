@@ -2,6 +2,8 @@
 In this project we present how to improve your SpringBoot app's security by using OAuth2 authentication.
 The full content you can find in our blog post [HERE](https://pattern-match.com/blog/2018/10/17/springboot2-with-oauth2-integration/).
 
+https://pattern-match.com/blog/2018/10/17/springboot2-with-oauth2-integration/
+
 ## Building the project
 You can use gradle wrapper which is configured in the project.
 
